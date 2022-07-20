@@ -31,7 +31,7 @@ Shop multiple websites, combine the packages into one box and save up to 80% on 
 // /packages/ REGISTER PACKAGE POST
 // /package/:id DELETE delete package by id
 // /package/:price package update price
-
+<br />
 // /shipping/:user_id/users/package/ register shipping to country POST
 // /shipping/pagination/:id/page/:page get all order shipping pagination
 // /shipping/:id/users/ get all shipping by id user GET
